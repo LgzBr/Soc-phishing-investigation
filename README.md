@@ -51,13 +51,15 @@ analysis, download the PDF below:
 
 📄 [Download Full Tutorial PDF](https://github.com/frankllin-sec/Soc-phishing-investigation/blob/main/soc_phishing_tutorial_final.pdf) 
 
-## Skills Demonstrated
+## Study Notes & Infographics
 
-- Phishing email analysis and red flag identification
-- Firewall log correlation and endpoint investigation
-- Attack timeline construction
-- True Positive vs False Positive classification
-- Incident report writing (IOCs, closure rationale, remediation)
+During my studies, I found that creating visual summaries
+helped me retain information much more effectively than
+reading alone. Instead of traditional notes, I design
+infographics that condense key concepts into memorable
+visuals — making it harder to forget what I learned.
+(https://github.com/frankllin-sec/Soc-phishing-investigation/blob/main/infographics/Phishing%20email-1.png)
+(https://github.com/frankllin-sec/Soc-phishing-investigation/blob/main/infographics/Phishing%20email-2.png)
 
 ## Tools and Platforms
 
