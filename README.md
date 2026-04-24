@@ -11,7 +11,7 @@ While attempting the TryHackMe SOC Level 1 path before completing
 the foundational modules, I found myself struggling to follow the
 investigation workflow without a structured reference. Instead of
 skipping the experience, I decided to document the entire process
-as a learning resource — building a step-by-step tutorial that I
+as a learning resource building a step-by-step tutorial that I
 could use as a reference during future investigations.
 
 ## What this project is
@@ -52,13 +52,6 @@ incident report.
 - `tutorial/soc_phishing_tutorial.pdf` — Full investigation tutorial with screenshots
 - `screenshots/` — Real alert screenshots from the SOC Simulator
 
-## Current Certification Progress
-
-- [ ] CompTIA Security+ *(in progress)*
-- [ ] TryHackMe Pre Security *(92% complete)*
-- [ ] TryHackMe Cyber Security 101 *(upcoming)*
-- [ ] TryHackMe SOC Level 1 *(upcoming)*
-- [ ] Splunk Core Certified User *(upcoming)*
 
 ## Note on AI Usage
 
